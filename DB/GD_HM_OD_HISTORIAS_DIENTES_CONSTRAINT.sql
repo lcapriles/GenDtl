@@ -1,0 +1,7 @@
+--------------------------------------------------------
+--  Constraints for Table GD_HM_OD_HISTORIAS_DIENTES
+--------------------------------------------------------
+
+  ALTER TABLE "GDCNO"."GD_HM_OD_HISTORIAS_DIENTES" MODIFY ("NUMDIENTE" NOT NULL ENABLE)
+  ALTER TABLE "GDCNO"."GD_HM_OD_HISTORIAS_DIENTES" MODIFY ("FECHA" NOT NULL ENABLE)
+  ALTER TABLE "GDCNO"."GD_HM_OD_HISTORIAS_DIENTES" MODIFY ("TRATAMIENTOID" NOT NULL ENABLE)

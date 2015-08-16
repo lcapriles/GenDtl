@@ -1,0 +1,20 @@
+--------------------------------------------------------
+-- Archivo creado  - domingo-julio-12-2015   
+--------------------------------------------------------
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOLOGIA.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOPEDIATRIA.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ORTODONCIA.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_RAYOSX.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOLOGIA_DATA_TABLE.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOPEDIATRIA_DATA_TABLE.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ORTODONCIA_DATA_TABLE.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_RAYOSX_DATA_TABLE.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOLOGIA_PK.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOPEDIATRIA_PK.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ORTODONCIA_INDEX1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ORTODONCIA_PK.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GM_HM_RAYOSX_PK.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOLOGIA_CONSTRAINT.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ODONTOPEDIATRIA_CONSTRAINT.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_ORTODONCIA_CONSTRAINT.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_HM_RAYOSX_CONSTRAINT.sql

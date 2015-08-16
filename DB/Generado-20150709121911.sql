@@ -1,0 +1,22 @@
+--------------------------------------------------------
+-- Archivo creado  - jueves-julio-09-2015   
+--------------------------------------------------------
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_COBROS_RENG_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_CUOTAS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_FACT_RENG_TMP_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_FACT_TMP_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_FACTURAS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_ADM_FACTURAS_RENG_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CC_CITAS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CC_CITAS_CONTADOR_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CC_CITAS_DISPONIBILIDAD_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CC_CITAS_HORARIO_ESPEC_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CC_CITAS_MOV_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_CJA_CAJAS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_GEN_DIAS_FERIADOS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_GEN_HISTORIAS_PERSONA_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_GEN_PERSONAS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_INV_COLETILLA_ITEM_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_INV_ITEMS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_PPTO_PRESUPUESTOS_DATA_TABLE_1.sql
+@C:\Users\LuisCapriles\Documents\_ProyectosLC\CNO\BackUps\LOCAL\GD_PPTO_RENG_PRESUPUESTO_DATA_TABLE_1.sql

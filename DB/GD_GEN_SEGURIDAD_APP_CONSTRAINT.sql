@@ -1,0 +1,7 @@
+--------------------------------------------------------
+--  Constraints for Table GD_GEN_SEGURIDAD_APP
+--------------------------------------------------------
+
+  ALTER TABLE "GDCNO"."GD_GEN_SEGURIDAD_APP" MODIFY ("PERFIL" NOT NULL ENABLE);
+  ALTER TABLE "GDCNO"."GD_GEN_SEGURIDAD_APP" MODIFY ("PAGINA" NOT NULL ENABLE);
+  ALTER TABLE "GDCNO"."GD_GEN_SEGURIDAD_APP" ADD CONSTRAINT "GD_GEN_SEGURIDAD_APP_PK" PRIMARY KEY ("PERFIL", "PAGINA") USING INDEX  ENABLE;

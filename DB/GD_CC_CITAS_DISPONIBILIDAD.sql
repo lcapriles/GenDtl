@@ -1,0 +1,5 @@
+--------------------------------------------------------
+--  DDL for Table GD_CC_CITAS_DISPONIBILIDAD
+--------------------------------------------------------
+
+  CREATE TABLE "GDCNO"."GD_CC_CITAS_DISPONIBILIDAD" ("DISPONIBILIDADFECHA" DATE, "CODSEDE" VARCHAR2(6 BYTE), "CODSERVICIO" VARCHAR2(6 BYTE), "CODESPECIALISTA" VARCHAR2(6 BYTE), "CITASRESERVADO" NUMBER(4,0), "CITASDISPONIBLE" NUMBER(4,0)) ;

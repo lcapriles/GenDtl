@@ -1,0 +1,7 @@
+--------------------------------------------------------
+--  Constraints for Table GD_GEN_SERV_SEDES
+--------------------------------------------------------
+
+  ALTER TABLE "GDCNO"."GD_GEN_SERV_SEDES" MODIFY ("CODSEDE" NOT NULL ENABLE);
+  ALTER TABLE "GDCNO"."GD_GEN_SERV_SEDES" MODIFY ("CODSERVICIO" NOT NULL ENABLE);
+  ALTER TABLE "GDCNO"."GD_GEN_SERV_SEDES" ADD CONSTRAINT "GD_GEN_SERV_SEDES_PK" PRIMARY KEY ("CODSEDE", "CODSERVICIO") USING INDEX  ENABLE;

@@ -1,0 +1,7 @@
+--------------------------------------------------------
+--  Constraints for Table GD_HM_ORTODONCIA
+--------------------------------------------------------
+
+  ALTER TABLE "GDCNO"."GD_HM_ORTODONCIA" ADD CONSTRAINT "GD_HM_ORTODONCIA_PK" PRIMARY KEY ("TRATAMIENTOID") USING INDEX  ENABLE
+  ALTER TABLE "GDCNO"."GD_HM_ORTODONCIA" MODIFY ("FECHA" NOT NULL ENABLE)
+  ALTER TABLE "GDCNO"."GD_HM_ORTODONCIA" MODIFY ("TRATAMIENTOID" NOT NULL ENABLE)
